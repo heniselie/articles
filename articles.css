@@ -1,0 +1,80 @@
+body{
+	background-color: white-blue;
+
+}
+
+p.italic {
+	background-color: none;
+    font-style: italic;
+    font-size:150%;
+    text-align:center;
+    color: blue;
+
+
+}
+
+.articles{
+	background-color: gray;
+	font-family: "Times New Roman", Times, articles;
+	font-size: 120%;
+	border-style: solid;
+	color: red;
+	padding: 100px;
+	border-radius: 360px;
+	line-height: 20px;
+
+
+}
+
+.articles1{
+
+	font-family: Arial, Helvetica, articles1;
+	font-size: 150%;
+	border-style: dotted;
+	color: 	#7FFF00;
+	padding: 80px;
+	border-radius: 100px;
+	background-color: blue;
+	line-height: 30px;
+}
+
+
+
+.articles2{
+
+	font-family: Arial, Helvetica, articles2;
+	font-size: 80%;
+	border-style: dashed;
+	color: purple;
+	padding: 60px;
+	border-radius: 50px;
+	background-color: yellow;
+	line-height: 50px;
+
+}
+
+
+.articles3{
+
+	font-family: Arial, Helvetica, articles3;
+	font-size: 130%;
+	border-style: dotted dashed solid double;
+	color: green;
+	padding: 40px;
+	border-radius: 25px;
+	background-color: pink;
+	line-height: 70px;
+
+}
+
+.articles4{
+
+	font-family: Arial, Helvetica, articles4;
+	font-size: 115%;
+	border-style: outset;
+	color: green;
+	padding: 20px;
+	border-radius: 10px;
+	background-color: #FBCEB1;
+	line-height: 90px;
+}
